@@ -20,7 +20,6 @@ import { CoreModules } from './core.module';
     SharedModule,
     CoreModules
   ],
- 
   bootstrap: [AppComponent],
 })
 export class AppModule {}
